@@ -1,0 +1,7 @@
+#Styling: button, drop-down 
+#Fix HTML
+#Choose a random color onload
+#Change drop down select option color
+#Responsive-design
+#async/await (promises)
+
